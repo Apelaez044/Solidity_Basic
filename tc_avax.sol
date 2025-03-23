@@ -39,10 +39,10 @@ contract tc_avax {
 
     /* 
     modifier lo que hace es verificar dentro de otras funciones que al ejecutar 
-    la funcio nse tenga el valor del fee + el gas
+    la funcion se tenga el valor del fee + el gas
     */
     modifier cost(uint amount) {
-        require(msg.value >= amount, "No tiene saldo en AVAX para ejcutar");
+        require(msg.value >= amount, "No tiene saldo en AVAX para ejecutar");
         _;
     }
 

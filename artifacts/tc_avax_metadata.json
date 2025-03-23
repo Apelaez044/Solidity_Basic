@@ -218,11 +218,11 @@
 	},
 	"sources": {
 		"tc_avax.sol": {
-			"keccak256": "0xd54ffafaa85fc259af017d02b004d60d0bc43b63841bda8f643744a627f04f69",
+			"keccak256": "0x60532c1f0bfccd27e7d1270d611083d732bbd443355315c252c5183cf7811623",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b2fdd829cbcc40ede44b474943d802e3ccf166de31a62d92d56bb1a0a373ea12",
-				"dweb:/ipfs/Qme5FUEcNFasi265VEpc69cfB2gpFXqnGJMRJ4KRsutk5J"
+				"bzz-raw://6a9492a5fad758e91911335a18ab0f8a374cccd0b06bc5e4ba0b4e888bee7c3b",
+				"dweb:/ipfs/QmXs1TGtnfQ1bGNGR4EuKkLUr4rjqCKUoBbfskdSDAuCyZ"
 			]
 		}
 	},
