@@ -1061,11 +1061,11 @@
 			]
 		},
 		"AvalanchaeNTF.SOL": {
-			"keccak256": "0xe871d8d1e50afefb68a9173c3fa34564c23e116c9ae2b0a62d76b7d0e9f74879",
+			"keccak256": "0x6e0bda6cf2890473f76095113be394b3721f9ced1b1debb6f2c0e38f1f7932ad",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://319978fef173408d3698d4ae38f495e99e7c1572e1751c84992b0f78e6041b44",
-				"dweb:/ipfs/QmU6rpD2rwXmH9mdM3CWWAMBSgq3p3J9BR62WVLe839XVb"
+				"bzz-raw://f85944303a2a48bbb6243f3d2a9461e72842e83c8d6360cfa3ad3e2d3f403d9a",
+				"dweb:/ipfs/QmcuQcJXwJfHZX2VFGaiPM4y9QQrgBEr9Jj2DWKe1W9czV"
 			]
 		}
 	},
